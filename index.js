@@ -6,6 +6,7 @@ const app=express()
 app.get('/',(req,res)=>{
     res.send("helo")
 })
+console.log("aeskjfasjfkasjkfjje");
 
 console.log("adfaksgkfknkcvkafnk");
 
